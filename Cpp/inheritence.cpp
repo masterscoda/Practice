@@ -1,3 +1,9 @@
+/*
+    Name: inheritence.cpp
+    Author: Scott Bossard
+    Date: 01/19/2020
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
